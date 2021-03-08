@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value=" Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (88)&#10;For more information on which environments are supported please see" />
       <item value="积分&#10;" />
       <item value="'temp' is never reassigned" />
       <item value="sharing" />
@@ -33,6 +34,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611739904581" />
+    <option name="lastTrimTime" value="1615183254394" />
   </component>
 </application>
