@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="hold Share" />
       <item value="blur" />
       <item value=" Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (88)&#10;For more information on which environments are supported please see" />
       <item value="积分&#10;" />
@@ -29,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
