@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="collection" />
+      <item value="归集" />
+      <item value="gui" />
+      <item value="guiji-" />
+      <item value="gui ji" />
+      <item value="don't forget me" />
+      <item value="don't forget " />
+      <item value="don't forget" />
+      <item value="donforget" />
+      <item value="forget" />
       <item value="show subscribe" />
       <item value="show edit on github" />
       <item value="license" />
@@ -32,12 +42,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616036822818" />
+    <option name="lastTrimTime" value="1616568495185" />
   </component>
 </application>
