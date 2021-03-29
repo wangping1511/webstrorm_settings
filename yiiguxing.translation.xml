@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="To install with Homebrew, you first need to tap the Elastic Homebrew repository:" />
+      <item value="To run Logstash, in the foreground, run:" />
+      <item value="To have launchd start elastic/tap/logstash-full now and restart at login, run:" />
+      <item value="And if you need a hand on your Elastic adventure, we're here for you." />
       <item value="collection" />
       <item value="归集" />
       <item value="gui" />
