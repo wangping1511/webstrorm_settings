@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code. Skip running if you don't trust the source." />
       <item value="direct val" />
       <item value="direct_val" />
       <item value="To install with Homebrew, you first need to tap the Elastic Homebrew repository:" />
@@ -54,6 +55,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617352976610" />
+    <option name="lastTrimTime" value="1618322642123" />
   </component>
 </application>
