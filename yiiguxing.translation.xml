@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="access" />
+      <item value="has Get User Info" />
+      <item value="mutations" />
+      <item value="redirect" />
       <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code. Skip running if you don't trust the source." />
       <item value="direct val" />
       <item value="direct_val" />
@@ -49,12 +53,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618322642123" />
+    <option name="lastTrimTime" value="1619072494103" />
   </component>
 </application>
