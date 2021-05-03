@@ -61,4 +61,7 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1619072494103" />
   </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+  </component>
 </application>
