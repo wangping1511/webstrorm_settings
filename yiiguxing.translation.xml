@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Browserslist: caniuse-lite is outdated. Please run the following command: `npm update`" />
       <item value="access" />
       <item value="has Get User Info" />
       <item value="mutations" />
