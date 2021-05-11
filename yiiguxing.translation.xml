@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="zero" />
+      <item value="z" />
       <item value="Unable to correct problems, you have held broken packages." />
       <item value="abort" />
       <item value="ab" />
@@ -51,13 +53,11 @@
       <item value="Layout 'post' requested in _posts/2021-01-20-first-doc.md does not exist." />
       <item value="Please append `--trace` to the `serve` command&#10;                     for any additional information or backtrace." />
       <item value="Could not reach host gems.ruby-china.com. Check your network connection and try again.&#10;&#10;" />
-      <item value="集成" />
-      <item value="继承" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
