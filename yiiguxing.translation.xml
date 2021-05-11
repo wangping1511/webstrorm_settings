@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Unable to correct problems, you have held broken packages." />
       <item value="abort" />
       <item value="ab" />
       <item value=" The detected system (ubuntu focal) is not supported by MySQL. If you believe the platform is   │&#10; │ compatible with one of the supported systems, one of the corresponding repositories may be     │&#10; │ selected.                                                                                      │&#10; │                                                                                                │&#10; │ Add repository to unsupported system?" />
@@ -52,11 +53,10 @@
       <item value="Could not reach host gems.ruby-china.com. Check your network connection and try again.&#10;&#10;" />
       <item value="集成" />
       <item value="继承" />
-      <item value="ji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="31" />
       </map>
     </option>
