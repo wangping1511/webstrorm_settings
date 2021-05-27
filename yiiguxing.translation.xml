@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="There is a screen on:&#10;&#9;1788.test&#9;(Detached)&#10;There is no screen to be detached matching 1788." />
+      <item value="detach" />
       <item value="If you think this is a bug, please open a bug report with the information provided in &quot;/Users/wangping/WebstormProjects/contract-admin-ui/yarn-error.log&quot;.&#10;" />
       <item value="ESOCKETTIMEDOUT" />
       <item value="盘口机器人" />
@@ -51,18 +53,16 @@
       <item value="'temp' is never reassigned" />
       <item value="mathjax" />
       <item value="provider" />
-      <item value=" this means to ignore newlines until &quot;Language &amp; timezone&quot;" />
-      <item value=" refname refs/heads/master not found&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621713873545" />
+    <option name="lastTrimTime" value="1622152770936" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
