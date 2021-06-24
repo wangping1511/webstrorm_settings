@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="猩猩" />
+      <item value="xing xing" />
+      <item value="xing x" />
       <item value="VUE_CLI_BABEL_TRANSPILE_MODULES" />
       <item value="ESLint: 'globaObj' is assigned a value but never used.(no-unused-vars)" />
       <item value="There is a screen on:&#10;&#9;1788.test&#9;(Detached)&#10;There is no screen to be detached matching 1788." />
@@ -50,19 +53,16 @@
       <item value="analytics" />
       <item value="hold Share" />
       <item value="blur" />
-      <item value=" Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (88)&#10;For more information on which environments are supported please see" />
-      <item value="积分&#10;" />
-      <item value="'temp' is never reassigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623936606135" />
+    <option name="lastTrimTime" value="1624519574849" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
