@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="profit" />
       <item value="垂直" />
       <item value="chui zhi" />
       <item value="猩猩" />
@@ -52,12 +53,11 @@
       <item value="sharing" />
       <item value="layout" />
       <item value="pageview" />
-      <item value="analytics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
