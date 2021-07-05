@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="单选框" />
+      <item value="单选kuang" />
+      <item value="单选" />
+      <item value="dan xuan" />
+      <item value="当选" />
       <item value="Identify and stop the process that's listening on port 8000 or configure this application to listen on another port." />
       <item value="chicago" />
       <item value="chic" />
@@ -48,21 +53,16 @@
       <item value="guiji-" />
       <item value="gui ji" />
       <item value="don't forget me" />
-      <item value="don't forget " />
-      <item value="don't forget" />
-      <item value="donforget" />
-      <item value="forget" />
-      <item value="show subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="92" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624958672269" />
+    <option name="lastTrimTime" value="1625486288685" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
