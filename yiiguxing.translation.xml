@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value=" List of the seed nodes&#10;  # Seed nodes are stable full nodes" />
       <item value="watch" />
       <item value="查看了" />
       <item value="单选框" />
@@ -52,17 +53,16 @@
       <item value="collection" />
       <item value="归集" />
       <item value="gui" />
-      <item value="guiji-" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
+        <entry key="CHINESE" value="112" />
         <entry key="ENGLISH" value="98" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625486288685" />
+    <option name="lastTrimTime" value="1626024590597" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
