@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Mining" />
+      <item value="Mini" />
+      <item value="Mining pool" />
+      <item value="矿池" />
       <item value="setInterval" />
       <item value="nothing to commit, working tree clean&#10;The previous cherry-pick is now empty, possibly due to conflict resolution.&#10;If you wish to commit it anyway, use:&#10;" />
       <item value="Auto-merging src/views/assets/coin/CoinWallet.vue&#10;On branch RealBTC&#10;You are currently cherry-picking commit 6dcb75b." />
@@ -49,20 +53,16 @@
       <item value="mutations" />
       <item value="redirect" />
       <item value="Running webpack configuration improves coding assistance but may execute potentially malicious code. Skip running if you don't trust the source." />
-      <item value="direct val" />
-      <item value="direct_val" />
-      <item value="To install with Homebrew, you first need to tap the Elastic Homebrew repository:" />
-      <item value="To run Logstash, in the foreground, run:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626024590597" />
+    <option name="lastTrimTime" value="1626783824748" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
